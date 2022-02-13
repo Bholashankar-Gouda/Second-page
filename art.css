@@ -1,0 +1,73 @@
+.one{
+    width: 24%;
+    height: 45%;
+    float: left;
+}
+.two{
+    width: 24%;
+    height: 45%;
+    float: left;
+    margin-left: 3px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.three{
+    width: 24%;
+    height: 45%;
+    float: left;
+}
+.four{
+    width: 24%;
+    height: 45%;
+    float: right;
+    font-family: 'Source Code Pro', monospace;
+}
+.seven{
+    width: 24%;
+    height: 45%;
+    float: left;
+}
+.eight{
+    width: 24%;
+    height: 45%;
+    float: left;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 13px;
+    color: black;
+    margin-left: 15px;
+}
+
+.five{
+    width: 24%;
+    height: 45%;
+    float: left;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 13px;
+    color: black;
+}
+.six{
+    width: 24%;
+    height: 45%;
+    float: right;
+}
+.img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.img2{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.img3{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
